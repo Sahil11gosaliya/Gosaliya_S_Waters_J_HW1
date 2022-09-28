@@ -1,6 +1,5 @@
-# Team Name
 
-DINOSHARKS
+# DINOSHARKS
 
 # Team Members
 
